@@ -1,0 +1,63 @@
+# Site settings
+baseurl = "https://chessels.co.uk/"
+languageCode = "en-uk"
+title = "Martyn J Shiner | Generalist"
+theme = "hugo-smpl-theme"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
+
+# Enter your tracking code to enable Google analytics
+googleAnalytics = ""
+
+[params]
+  # You can use Markdown for urls [text](//domain.tld/source)
+  #
+  # All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+  # for more icons.
+
+  # To provide more meta data for search engines feel free to add a few information.
+  # This lines will be inserted as meta tags.
+  name = "Martyn J Shiner"
+  description = "Generalist"
+
+  # Background
+  [params.background]
+    image = "/assets/img/lighthouse.jpg"
+
+    # Enable and set background fade speed
+    [params.background.fade]
+      enable = true
+      speed = 500
+
+  # Logo section
+  [params.logo]
+    enable = true
+    image = "/assets/img/fox.png"
+    alt = "fox"
+    width = "150"
+
+  # Header section
+  [params.header]
+    enable = true
+    title = "Martyn J Shiner"
+
+  # Quote section
+  [params.quote]
+    enable = true
+    text = "Bringing a holistic approach to improving your business"
+
+  # Social icons section
+  # Add a modifier class to increase size
+  # fa-lg, fa-2x, fa-3x, fa-4x, fa-5x
+  # e.g., icon = "fa-instagram fa-lg"
+  [params.social_icons]
+    enable = true
+
+  [[params.social]]
+    title = "Email"
+    icon = "fa-envelope fa-2x"
+    link = "mailto: martyn@chessels.co.uk"
+
+  [[params.social]]
+    title = "Github"
+    icon = "fa-github fa-2x"
+    link = "https://github.com/mshiner/"
