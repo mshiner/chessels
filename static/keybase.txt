@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/martynshiner
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://chessels.co.uk
+  * I am martynshiner (https://keybase.io/martynshiner) on keybase.
+  * I have a public key ASDce7uDnvYa_fSI_-u_RO5_XRKcAElnFIK306L9-72CAQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201c8a8e9f8c2c589c31765129604054d14c5bc6888ec9fb6657ae62b0eb92bf630a",
+      "host": "keybase.io",
+      "kid": "0120dc7bbb839ef61afdf488ffebbf44ee7f5d129c0049671482b7d3a2fdfbbd82010a",
+      "uid": "32c86ca369a9f118bb022c8c8faeb019",
+      "username": "martynshiner"
+    },
+    "merkle_root": {
+      "ctime": 1549913589,
+      "hash": "d9280777da380495ba7d8c5d39d318a8c40671e1a2c9559af9ceae2b716b23c9006f8864ff227bad8acd4a0bb867eba1c1287961410f9a4178d395262455b930",
+      "hash_meta": "9090a1ae3c1fc1def0a8405381548af63bb71b0a4030ae8277ec65cac93055e6",
+      "seqno": 4744621
+    },
+    "service": {
+      "entropy": "rxMRQbqdL0yum42sQePXkJJQ",
+      "hostname": "chessels.co.uk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1549913619,
+  "expire_in": 504576000,
+  "prev": "5f7ba04640680074251b264fefb557de0ec12d315731c6eb25e90e9edeb34f7a",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3Hu7g572Gv30iP/rv0Tuf10SnABJZxSCt9Oi/fu9ggEKp3BheWxvYWTESpcCDcQgX3ugRkBoAHQlGyZP77VX3g7BLTFXMcbrJekOnt6zT3rEIAn9HaDN8ji0OD21hNx7jZ6epq5GwM4eN+5fbpmaVgSBAgHCo3NpZ8RAS2gQ/2fsFCEuaRlJfSQ+wsVVYGs0Sq9h6YC/kUof48P1fW+NYRKNd3Nsw8Z8ngm2O2EAH+PLQDUbyt8NxJVPBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIK7Q0YRteXtML4bHo9CkZCrji+dqnIsyCyi9jtjaJY+Po3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/martynshiner
+
+==================================================================
