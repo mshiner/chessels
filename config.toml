@@ -61,3 +61,9 @@ googleAnalytics = ""
     title = "Github"
     icon = "fa-github fa-2x"
     link = "https://github.com/mshiner/"
+
+  [[params.social]]
+    title = "Encrypted Messages"
+    icon = "fa-user-secret fa-2x"
+    link = "https://keybase.io/encrypt#martynshiner"
+
