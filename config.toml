@@ -2,7 +2,7 @@
 baseurl = "https://chessels.co.uk/"
 languageCode = "en-uk"
 title = "Martyn J Shiner | Generalist"
-theme = "hugo-smpl-theme"
+#theme = "hugo-smpl-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
 
 # Enter your tracking code to enable Google analytics
