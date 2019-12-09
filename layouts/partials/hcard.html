@@ -1,4 +1,6 @@
-<p class="h-card vcard">
+<p hidden class="h-card vcard">
 	<a style="text-decoration: none" href={{ .Site.BaseURL }} class="p-name u-url url author metatag" rel="me">{{ .Site.Params.hcard.name }}</a> /
 	<a class="p-nickname u-email email metatag" rel="me" href="mailto:{{ .Site.Params.hcard.email }}">{{ .Site.Params.hcard.nick }}</a>
+	<p hidden class="p-note">{{ .Site.Params.hcard.bio }}</p>
+	<img hidden class="u-photo" src="{{ .Site.Params.logo.image }}" width="{{ .Site.Params.logo.width }}" alt="{{ .Site.Params.logo.alt }}">
 </p>

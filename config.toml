@@ -69,6 +69,12 @@ googleAnalytics = ""
   [params.hcard]
     enable = true
     name = "Martyn Shiner"
-    nick = "Martyn"
+    nick = "ShineyMart"
     email = "martyn@chessels.co.uk"
+    bio = "Evil bearded accountant. Opinionated. Randonneur. Likes numbers, code and Belgian beer."
+    # Could we have an h-card image here?
+    # image = "/assets/img/fox.png"
+    # alt = "fox"
+    # width = "150"img
+
 
