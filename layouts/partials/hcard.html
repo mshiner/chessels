@@ -3,6 +3,6 @@
 		rel="me">{{ .Site.Params.hcard.name }}</a> /
 	<a class="p-nickname u-email email metatag" rel="me"
 		href="mailto:{{ .Site.Params.hcard.email }}">{{ .Site.Params.hcard.nick }}</a>
-	<p hidden class="p-note" rel="me">{{ .Site.Params.hcard.bio }}</p>
-	<img hidden class="u-photo" src="{{ .Site.Params.logo.image }}" rel="me" alt="{{ .Site.Params.logo.alt }}">
+	<span class="p-note metatag" rel="me">{{ .Site.Params.hcard.bio | markdownify }}</span>
+	<img class="u-photo metatag" src="{{ .Site.Params.logo.image }}" rel="me" alt=" ">
 </p>
