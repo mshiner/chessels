@@ -32,6 +32,11 @@
       {{ partial "quote.html" . }}
     {{ end }}
 
+    <!-- Quote -->
+    {{ if .Site.Params.hcard.enable }}
+      {{ partial "hcard.html" . }}
+    {{ end }}
+
     {{ partial "scripts.html" . }}
   </body>
 </html>

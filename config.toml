@@ -2,7 +2,6 @@
 baseurl = "https://chessels.co.uk/"
 languageCode = "en-uk"
 title = "Martyn J Shiner | Generalist"
-#theme = "hugo-smpl-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
 
 # Enter your tracking code to enable Google analytics
@@ -66,4 +65,10 @@ googleAnalytics = ""
     title = "Encrypted Messages"
     icon = "fa-user-secret fa-2x"
     link = "https://keybase.io/martynshiner"
+
+  [params.hcard]
+    enable = true
+    name = "Martyn Shiner"
+    nick = "Martyn"
+    email = "martyn@chessels.co.uk"
 
