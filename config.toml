@@ -42,7 +42,9 @@ googleAnalytics = ""
   # Quote section
   [params.quote]
     enable = true
-    text = "Bringing a holistic approach to improving your business"
+    text = "uzERP developer and data consultant - improving your business using Open Source tools"
+
+  
 
   # Social icons section
   # Add a modifier class to increase size
@@ -62,9 +64,9 @@ googleAnalytics = ""
     link = "https://github.com/mshiner/"
 
   [[params.social]]
-    title = "Encrypted Messages"
-    icon = "fa-user-secret fa-2x"
-    link = "https://keybase.io/martynshiner"
+    title = "uzERP ERP"
+    icon = "fa-users fa-2x"
+    link = "https://github.com/uzerpllp/"
 
   [params.hcard]
     enable = true
