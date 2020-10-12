@@ -54,17 +54,17 @@ googleAnalytics = ""
     enable = true
 
   [[params.social]]
-    title = "Email"
+    title = "Email me"
     icon = "fa-envelope fa-2x"
     link = "mailto: martyn@chessels.co.uk"
 
   [[params.social]]
-    title = "Github"
+    title = "Github repos"
     icon = "fa-github fa-2x"
     link = "https://github.com/mshiner/"
 
   [[params.social]]
-    title = "uzERP ERP"
+    title = "uzERP LLP repos"
     icon = "fa-users fa-2x"
     link = "https://github.com/uzerpllp/"
 
