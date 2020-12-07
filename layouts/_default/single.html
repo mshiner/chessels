@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+{{ "<!--" | safeHTML}}
+  SMPL by BlackTie.co
+  http://blacktie.co/ | @BlackTie_co
+  Free for personal and commercial use under the CCA 3.0 license (blacktie.co/about-themes/)
+{{ "-->" | safeHTML }}
+<html lang="en">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="row">
+
+        <div class="col-md-12">
+
+            <div>
+              {{ .Content }}
+            </div>
+
+        </div>
+
+      </div>
+    </div><!-- /.container -->
+
+    
+    {{ partial "scripts.html" . }}
+  </body>
+</html>
